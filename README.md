@@ -26,6 +26,7 @@ enjoy.
 # installation
 
 - You only need to install streamlit library and what JoJoGAN requires
+- pip install streamlit
 
 # RUN
 
