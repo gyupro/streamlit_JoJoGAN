@@ -1,3 +1,39 @@
+# This repo is a simple frontend web server for JoJoGAN
+
+you will only have to install streamlit library to proceed.
+
+you can add your own model by 
+
+1. adding image under style_images_aligned/ directory
+2. model file under models/ 
+3. add enum variable with the name of the file without extension in FaceOption class
+
+by doing so, you will see the your added image in the left side bar and select option
+
+![](teasers/demo.PNG)
+
+
+[Sample Link](http://aifolio.cafe24.com/test/)
+
+The link above won't accept many requests and may be slow.
+
+Download the code and make it work with your own server
+
+enjoy.
+
+
+
+# installation
+
+- You only need to install streamlit library and what JoJoGAN requires
+
+# RUN
+
+running streamlit server is a bit different from normal command.
+
+streamlit run streamlit_jojogan.py --server.port 8951
+
+
 # JoJoGAN: One Shot Face Stylization
 [![arXiv](https://img.shields.io/badge/arXiv-2112.11641-b31b1b.svg)](https://arxiv.org/abs/2112.11641)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mchong6/JoJoGAN/blob/main/stylize.ipynb)
