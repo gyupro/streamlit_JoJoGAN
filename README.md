@@ -21,6 +21,10 @@ Download the code and make it work with your own server
 
 enjoy.
 
+# Warning
+
+- current server will save your upload image.
+- be careful if you don't want it to be uploaded. 
 
 
 # installation
