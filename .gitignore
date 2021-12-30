@@ -1,0 +1,10 @@
+# Ignore large files
+
+save/
+models/
+.ipynb_checkpoints/
+# Ignore unncessary files
+
+원본
+save_path.txt
+shape_predictor_68_face_landmarks.dat.bz2
