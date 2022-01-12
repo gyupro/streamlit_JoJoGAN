@@ -13,13 +13,6 @@ by doing so, you will see the your added image in the left side bar and select o
 ![](teasers/demo.PNG)
 
 
-[Sample Link](http://aifolio.cafe24.com/test/)
-
-The link above won't accept many requests and may be slow.
-
-Download the code and make it work with your own server
-
-enjoy.
 
 # Warning
 
