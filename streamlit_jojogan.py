@@ -180,9 +180,9 @@ if __name__ == '__main__':
     
     if torch.cuda.is_available():
         device = 'cuda'
-    else:
-        print('your torch is not available for cuda. this will make the entire process slower')
-        device='cpu'
+#     else:
+#         print('your torch is not available for cuda. this will make the entire process slower')
+#     device='cpu'
     
     gan_option = st.radio('Select option:',list(FaceOption.__members__))
     inputspace = st.columns([0.75, 0.25])

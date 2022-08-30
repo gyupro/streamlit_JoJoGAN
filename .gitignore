@@ -1,7 +1,7 @@
 # Ignore large files
 
 save/
-models/
+models/*.pt
 .ipynb_checkpoints/
 # Ignore unncessary files
 
