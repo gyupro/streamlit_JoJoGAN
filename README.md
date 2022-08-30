@@ -29,8 +29,9 @@ by doing so, you will see the your added image in the left side bar and select o
 
 running streamlit server is a bit different from normal command.
 
+```python
 streamlit run streamlit_jojogan.py --server.port 8951
-
+```
 
 # JoJoGAN: One Shot Face Stylization
 [![arXiv](https://img.shields.io/badge/arXiv-2112.11641-b31b1b.svg)](https://arxiv.org/abs/2112.11641)
