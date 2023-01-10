@@ -8,7 +8,7 @@ you can add your own model by
 2. model file under models/ 
 3. add enum variable with the name of the file without extension in FaceOption class
 
-by doing so, you will see the your added image in the left side bar and select option
+by doing so, you will see your images in the left side bar and select option
 
 ![](teasers/demo.PNG)
 
